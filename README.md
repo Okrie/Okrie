@@ -11,7 +11,6 @@
 <br>
 made by flutter 
 <br>
-현재 build 관련 에러로 수정 예정입니다.
 
 <br>
 
